@@ -8,8 +8,8 @@ This assignment provides detailes information on how to install MySQL ( Server a
 This assignment requires installation of MYSQL ( Server and Workbench) on personal machines or use of a virtual machine. I was able to install the MY SQL server and workbench using the instructions and videos provided with the assignment. I did not face any difficulty with the installation and found installation video very helful. I had to face some difficulty in creating the datbases . However, after my first attempt , I was able to sucessfully create the datebases.
 
 ## Queries
-I reviewed the chapeter 3  very carefully and learnt how to code using the Select statement. I also practiced working with queries on w3schools.com and found it very helpul in understaing the functionality of quesries.
+I reviewed the chapeter 3  very carefully and learnt how to code using the Select statement. I also practiced working with queries on w3schools.com and found it very helpul in understaing the functionality of queries and thus, was able to complete the assignment queries without any difficulty.
 
 ## Conclusion
-Through the course of this lab I learned about functioning of the CPU, relation between CU and ALU and various hardware components like the RAM, Hard Disk,etc. I had to face some difficulty with understanding the Hex color codes. Overall, I found this lesson very informative and interesting and I plan to continue learning and establish my career in the filed of IT.
+Through the course of this assignment I learned about how to install MY SQL server and Workbench and use MYSQL Workbench. I also gained knowedge about excuting SQL statements and coding select staements using serveral functions and clauses.Overall, I found this lesson very informative and interesting and I plan to continue learning MYSQL and establish my career in the filed of data analytics.
 
