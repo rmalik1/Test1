@@ -1,14 +1,11 @@
 ## Executive Summary 
-This assignment provides detailes information on how to install MySQL ( Server and Workbench) on personal machines and how to use MYSQL Workbench to start and stop a MySQL server and to enter and execute SQL Statements.The Lab also provides detailed knowledge for coding SLEECT statements using :
-+ serveral functions like LEFT,DATE ,Format and Round etc
-+ using WHERE Clause
+This assignment provides detailes information on how to install MySQL ( Server and Workbench) on personal machines and how to use MYSQL Workbench to start and stop a MySQL server and to enter and execute SQL Statements. The Lab also provides detailed knowledge for coding SLEECT statements using :
++  serveral functions like LEFT,DATE ,Format and Round etc
++  WHERE Clause with comparison operators like <, > =,etc. and logical operators like the AND , the OR etc and other operators like Between , Like, etc
++  ORDER by clause
 
-
-is to review various Hardware components and their functions. It provides detailed information about the functioning of a CPU, Logic gates and Circuits and the role of IEEE in ensuring compliance with ethics for device and AI designs. The lab also discusses the Data Representation in computing and disusses the conversion of numbers to binary, hexadecimal, etc. It also discusses the Hexadecimal Color Representation for displaying color on the web.
-
-## Hardware 
-Hard Drives and Memory are internal storage spaces in a computer.
-Hard Drives are used to record data for a long period of time. Once Data is saved to the hard drive, it is always available for user regardless of how many the users turn off / reboots the computer. Thus, Hard Drives are considered non-volatile storage.
+## MySQL Workbench
+This assignment requires installation of 
 
 The central processing unit (CPU) of a computer is the core of a computer. It performs the basic arithmetical, logical, and input/output operations of a computer system. The CPU is considered the brains of the computer.  The main components of a CPU are: 
 + Arithmetic Logic Unit (ALU): Performs arithmetic and logical operations
