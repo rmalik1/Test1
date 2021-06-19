@@ -1,5 +1,10 @@
 ## Executive Summary 
-The purpose of Lab2 is to review various Hardware components and their functions. It provides detailed information about the functioning of a CPU, Logic gates and Circuits and the role of IEEE in ensuring compliance with ethics for device and AI designs. The lab also discusses the Data Representation in computing and disusses the conversion of numbers to binary, hexadecimal, etc. It also discusses the Hexadecimal Color Representation for displaying color on the web.
+This assignment provides detailes information on how to install MySQL ( Server and Workbench) on personal machines and how to use MYSQL Workbench to start and stop a MySQL server and to enter and execute SQL Statements.The Lab also provides detailed knowledge for coding SLEECT statements using :
++ serveral functions like LEFT,DATE ,Format and Round etc
++ using WHERE Clause
+
+
+is to review various Hardware components and their functions. It provides detailed information about the functioning of a CPU, Logic gates and Circuits and the role of IEEE in ensuring compliance with ethics for device and AI designs. The lab also discusses the Data Representation in computing and disusses the conversion of numbers to binary, hexadecimal, etc. It also discusses the Hexadecimal Color Representation for displaying color on the web.
 
 ## Hardware 
 Hard Drives and Memory are internal storage spaces in a computer.
